@@ -1,0 +1,15 @@
+python-dotenv==1.0.0
+llama-index==0.10.59
+llama-index-readers-file==0.1.33
+llama-index-llms-openai==0.1.27
+llama-index-embeddings-openai==0.1.11
+llama-index-llms-azure-openai==0.1.10
+llama-index-embeddings-azure-openai==0.1.11
+
+# Used by code_03_XX and code_06_XX (LangChain/LangGraph notebooks) - left
+# unpinned so pip resolves versions that recognize current Azure model deployments.
+langchain
+langchain-openai
+langchain-pymupdf4llm
+langchain-text-splitters
+langgraph

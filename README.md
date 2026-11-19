@@ -1,5 +1,6 @@
 # Agentic AI for Developers: Concepts and Application for Enterprises
 This is the repository for the LinkedIn Learning course `Agentic AI for Developers: Concepts and Application for Enterprises`. The full course is available from [LinkedIn Learning][lil-course-url].
+![course-name-alt-text][lil-thumbnail-url] 
 
 # Course Description
 Agentic AI is at the forefront of the next wave of technological advancements in the generative AI world, transforming the way business processes are executed in the future. As agentic AI becomes more capable of performing tasks traditionally requiring human intelligence and oversight, it is crucial for data scientists and engineers to understand how these systems work and best practices to build them.
@@ -12,8 +13,6 @@ In this course, Kumaran Ponnambalam discusses the concepts and building blocks f
 - Establish familiarity with popular use cases for agentic AI for enterprises.
 - Build sample agentic AI applications using popular frameworks available.
 - Comprehend key responsible AI considerations when bringing agentic AI to enterprises.
-
-![course-name-alt-text][lil-thumbnail-url] 
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions

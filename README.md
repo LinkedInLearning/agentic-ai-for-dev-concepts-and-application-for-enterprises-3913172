@@ -22,6 +22,14 @@ _See the readme file in the main branch for updated instructions and information
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
+## Instructor
+Kumaran Ponnambalam 
+
+Kumaran Ponnambalam has been working with data for more than 20 years.
+
+He has built enterprise and cloud applications that ingest data to produce meaningful insights for its consumers. Data has always intrigued Kumaran and he has always searched for ways to mine, manage, and master it. Using analytics to solve business problems is his key interest domain. Of late, he has taken a keen interest in building quality courses for people to understand and use data. Big data analytics is fast-growing, but quality education, especially in application areas, is lacking and he wants to contribute to it.
+
+Check out my other LinkedIn Learning courses. [https://www.linkedin.com/learning/instructors/kumaran-ponnambalam?u=104]
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 

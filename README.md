@@ -1,6 +1,18 @@
 # Agentic AI for Developers: Concepts and Application for Enterprises
 This is the repository for the LinkedIn Learning course `Agentic AI for Developers: Concepts and Application for Enterprises`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+# Course Description
+Agentic AI is at the forefront of the next wave of technological advancements in the generative AI world, transforming the way business processes are executed in the future. As agentic AI becomes more capable of performing tasks traditionally requiring human intelligence and oversight, it is crucial for data scientists and engineers to understand how these systems work and best practices to build them.
+ 
+In this course, Kumaran Ponnambalam discusses the concepts and building blocks for agentic AI. He explores how enterprise use cases can be built with a few examples, and reviews responsible AI considerations for agentic AI.
+
+# Learning Objectives
+- Establish the definition of agentic AI and how it compares to single-shot inference with gen AI.
+- Gain an understanding of the building blocks and design patterns for agentic AI.
+- Establish familiarity with popular use cases for agentic AI for enterprises.
+- Build sample agentic AI applications using popular frameworks available.
+- Comprehend key responsible AI considerations when bringing agentic AI to enterprises.
+
 ![course-name-alt-text][lil-thumbnail-url] 
 
 _See the readme file in the main branch for updated instructions and information._
@@ -31,6 +43,7 @@ To resolve this issue:
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises
+[lil-thumbnail-url]:https://media.licdn.com/dms/image/v2/D560DAQELxwxSwz6dUw/learning-public-crop_675_1200/B56aFldzbUJkAg-/0/1792703674717?e=2147483647&v=beta&t=7-PVq0CkZbBUU5OgTW89l8vpPopK2SiZT0ns4SH5Yjo
+
 

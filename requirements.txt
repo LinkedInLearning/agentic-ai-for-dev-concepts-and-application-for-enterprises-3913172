@@ -13,6 +13,6 @@ langchain-openai==1.6.0
 # PDF loading uses the local langchain_pymupdf4llm.py shim (BSD-3-Clause pypdf backend)
 # instead of the langchain-pymupdf4llm package, which pulls in the AGPL-3.0-licensed
 # PyMuPDF/pymupdf4llm stack as of v1.28.0.
-pypdf==7.1.1
+pypdf==4.3.1
 langchain-text-splitters==1.1.2
 langgraph==1.2.11

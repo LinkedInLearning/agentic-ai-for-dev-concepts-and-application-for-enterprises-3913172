@@ -6,9 +6,13 @@ llama-index-embeddings-openai==0.1.11
 llama-index-llms-azure-openai==0.1.10
 llama-index-embeddings-azure-openai==0.1.11
 
-# Used by code_03_XX and code_06_XX (LangChain/LangGraph notebooks)
+# Used by code_03_XX and code_06_XX (LangChain/LangGraph notebooks).
+# These versions match the agents_intro Conda environment used to run the notebooks.
 langchain==1.4.0
 langchain-openai==1.6.0
-langchain-pymupdf4llm==1.28.0
+# PDF loading uses the local langchain_pymupdf4llm.py shim (BSD-3-Clause pypdf backend)
+# instead of the langchain-pymupdf4llm package, which pulls in the AGPL-3.0-licensed
+# PyMuPDF/pymupdf4llm stack as of v1.28.0.
+pypdf==7.1.1
 langchain-text-splitters==1.1.2
 langgraph==1.2.11
